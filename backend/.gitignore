@@ -1,0 +1,7 @@
+node_modules/
+.env
+uploads/
+database.sqlite
+database.sqlite-wal
+database.sqlite-shm
+Dockerfile
